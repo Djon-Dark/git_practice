@@ -1,1 +1,0 @@
-In addition to PUSHing files TO github, you can also PULL them FROM github, with the 'git pull' command.
